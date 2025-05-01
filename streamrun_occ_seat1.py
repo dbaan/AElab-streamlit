@@ -18,7 +18,7 @@ else:
     plt.rc('font', family='Malgun Gothic')
 
 # --- 배경 이미지 설정 ---
-background_img = mpimg.imread('C:/Windows/AElab.png')
+background_img = mpimg.imread('AElab.png')
 
 # --- 좌석 위치 및 이름 설정 ---
 seat_positions = {
